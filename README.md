@@ -1,2 +1,2 @@
 # Case_study_2
-Google Data Analytics Capstone
+Capstone for the Google Data Analytic's Certificate. 
